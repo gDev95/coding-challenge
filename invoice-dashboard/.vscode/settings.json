@@ -1,0 +1,5 @@
+{
+	"editor.formatOnSave": true,
+	"tslint.configFile": "~/Documents/Coding/coding-challenges/frontend-challenge/invoice-dashboard",
+	"prettier.tslintIntegration": true
+}
